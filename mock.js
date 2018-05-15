@@ -1,3 +1,4 @@
+//http://mockjs.com/examples.html#Number
 Mock.mock('basic',{
     "string|1-10": "★"
 })
